@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Example {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        //new funtions
         // size of data type
         /*
          * System.out.println("size is:"+Byte.SIZE);
