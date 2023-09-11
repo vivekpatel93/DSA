@@ -13,31 +13,32 @@ public class ClassQuestion {
         // System.out.println(revnum);
 
 
-         int n = 8;
-         int store=0;
-         int i=0;
-         while(n!=0){
-            int count=n%2;
-            double x=(Math.pow(10,i));
-            int z=(int) x;
-             //ans=(bit*z)+ans;
-            store=(count*z)+store;
-             n=n/2;
-             i++;
-         }
-         System.out.println(store);
-
-        // int n=sc.nextInt();
-        // int ans=0;
-        // int i=0;
-        // while(n!=0){
-        //     int bit=n&1;
+        //  int n = 8;
+        //  int store=0;
+        //  int i=0;
+        //  while(n!=0){
+        //     int count=n%2;
         //     double x=(Math.pow(10,i));
         //     int z=(int) x;
-        //     ans=(bit*z)+ans;
-        //     n=n>>1;
-        //    i++;
-        // }
-        // System.out.print(ans);
+        //      //ans=(bit*z)+ans;
+        //     store=(count*z)+store;
+        //      n=n/2;
+        //      i++;
+        //  }
+        //  System.out.println(store);
+
+        //  int n=sc.nextInt();
+        //  int ans=0;
+        //  int i=0;
+        //  while(n!=0){
+        //      int bit=n&1;
+        //      double x=(Math.pow(10,i));
+        //      int z=(int) x;
+        //      ans=(ans*z)+bit;
+        //      n=n>>1;
+        //     i++;
+        //  }
+        //  System.out.print(ans);
+        
     }
 }

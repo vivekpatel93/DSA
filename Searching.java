@@ -20,7 +20,7 @@
     }
     public static void main(String[] args) {
         int[] arr={1,3,5,7,9,11};
-        int key = 100;
+        int key = 11;
         int index = Binarysearch(key,arr);
         System.out.println("Index of "+key+" is-: "+index);
         }
